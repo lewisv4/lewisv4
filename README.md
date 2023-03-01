@@ -8,7 +8,7 @@
     <img src="https://giphy.com/static/img/zoomies-small.gif"></a>
 </p>
 <div>
-  <h2 align="center" style = "display: flex; flex-direction: row;">
+  <h2 align="center" style = "grid-column: 2; grid-row: 1">
      <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 align="center" > 
       About
      <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65  align="center" > 

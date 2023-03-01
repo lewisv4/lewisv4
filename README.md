@@ -7,11 +7,6 @@
   <a>
     <img src="https://giphy.com/static/img/zoomies-small.gif"></a>
 </p>
-
-<p align="center">
-  <img  src="./img/animation_dev.gif" alt="Lewisv4" width="300"/>
-</p>
-
 <div>
   <h2>
      <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65> 
@@ -25,8 +20,6 @@
 <p>💡 I like to explore new technologies and develop software solutions and quick tricks.</p>
 
 <p>🎓 I am currently studying English and different information technologies in a self-taught way.</p>
-
-<p>🌱 I'm well on my way to learning more about AI, system design, and cloud architecture.</p>
 
 <p>✍️ In my spare time, I do web design and blog writing as hobbies/side activities.</p>
 

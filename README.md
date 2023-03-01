@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <img  src="./img/animation_dev.gif" alt="Sergio-Hernández" width="300"/>
+  <img  src="./img/animation_dev.gif" alt="Lewisv4" width="300"/>
 </p>
 
 <div>
   <h2>About me
-    <img src = "https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 65> 
+    <img src = "https://giphy.com/static/img/zoomies-small.gif" width = 65> 
   </h2>
 </div>
 
-<h4>My name is <a href="https://alejandrosergio.github.io/Curriculum-Vitae-En/" target="_BLANK">Luis carlos Rodriguez</a></h4>
+<h4>My name is Luis carlos Rodriguez</a></h4>
 
 <p>💡 I like to explore new technologies and develop software solutions and quick tricks.</p>
 
@@ -31,9 +31,8 @@
 <p>💬 Feel free to contact me for consulting and volunteering, or just for an interesting discussion.</p>
 
 <p>✉️ You can email me at
-<a href="mailto:alejandro.dev.sergio@outlook.com" target="_BLANK">alejandro.dev.sergio@outlook.com</a> or <a href="mailto:alejosergio3000@gmail.com" target="_BLANK">alejosergio3000@gmail.com</a> i will try to answer as soon as i can!.</p>
+<a href="mailto:lewisv4re@hotmail.com" target="_BLANK">lewisv4re@hotmail.com</a> or <a href="mailto:lewisv4re@gmail.com" target="_BLANK">lewisv4re@gmail.com</a> i will try to answer as soon as i can!.</p>
 
-<p>📄 Look at my resume: <a href="https://alejandrosergio.github.io/Curriculum-Vitae-En/" target="_BLANK">[ Curriculum-Vitae || Sergio Hernández ]</a> for more details about me. !I am open to comments and suggestions!.</p>
 <br>
 <div align="right">
 </div>
@@ -49,8 +48,6 @@
 <img align="center" title="NodeJS" alt="sergio-NodeJS" height="40" width="40" src="./img/nodejs.png">
 <img align="center" title="PHP" alt="sergio-PHP" height="40" width="40" src="./img/PHP.svg">
 <img align="center" title="JAVA" alt="sergio-JAVA" height="40" width="40" src="./img/java.svg">
-<img align="center" title="C#" alt="sergio-C#" height="40" width="40" src="./img/cshr.svg">
-<img align="center" title=".NET" alt="sergio-.NET" height="40" width="40" src="./img//NET.svg.png">
 <img align="center" title="Spring" alt="sergio-Spring" height="40" width="40" src="./img/spring.png">
   <br/><br/>
 <img align="center" title="SQL" alt="sergio-SQL" height="40" width="40" src="./img//sql.png">
@@ -61,9 +58,6 @@
 <img align="center" title="Bootstrap" alt="sergio-Bootstrap" height="40" width="40" src="./img/Bootstrap.svg.png">
 <img align="center" title="GIT" alt="sergio-GIT" height="40" width="40" src="./img/Git.svg.png">
 <img align="center" title="GitHub" alt="sergio-GitHub" height="40" width="40" src="./img/github.svg">
-<img align="center" title="PowerApps" alt="sergio-PowerApps" height="40" width="40" src="./img/Microsoft_Power_Apps.png">
-<img align="center" title="PowerAutomate" alt="sergio-PowerAutomate" height="40" width="40" src="./img/Microsoft_Power_Automate.png">
-<img align="center" title="PowerBI" alt="sergio-PowerBI" height="40" width="40" src="./img/Power_BI_Logo.svg.png">
 </div>
 <br/>
 <br>
@@ -74,24 +68,17 @@
 <br>
 <br>
 <div align="center">
-<a href = "mailto:alejandro.dev.sergio@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:alejosergio3000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blues" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sergio-alejandro-hern%C3%A1ndez-pati%C3%B1o-153a3a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:lewisv4re@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "lewisv4re@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blues" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luis-carlos-a885a61a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 <br>
 
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/7oSkaaa"><img alt="alejandrosergio activity graph" src="https://activity-graph.herokuapp.com/graph?username=alejandrosergio&custom_title=alejandrosergio%20Contribution%20Graphic&theme=react-dark" /></a>
-<br/>
-
-
-![Snake animation](https://github.com/alejandrosergio/alejandrosergio/blob/main/img/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lewisv4/lewisv4/blob/master/img/github-contribution-grid-snake.svg)
 
 -----
-Credits: Sergio Alejandro Hernández Patiño
+Credits: Luis Carlos Rodriguez E.
 
-Last edited on: 03/06/2022
+Last edited on: 01/03/2023
 mi nombre es Luis soy de colombia

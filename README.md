@@ -9,14 +9,10 @@
 </p>
 <div>
   <h2 align="center" style = "display: flex; flex-direction: column;  align-items: center;">
-     <div style = "display: flex; flex-direction: column;  align-items: center;"> 
-      <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 align="center" > 
+     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 align="center" > 
       About
-     </div>
-     <div style = "display: flex; flex-direction: column;  align-items: center;"> 
      <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65  align="center" > 
       me
-     </div>
   </h2>
 </div>
 

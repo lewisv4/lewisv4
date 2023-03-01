@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <a>
-    <img src="https://media2.giphy.com/media/1dNmf1azumx3gyNnKZ/giphy.gif?cid=ecf05e47hsbq1buv0cfvavdbjmpumwjaqasrhxcdx9gmb2u5&rid=giphy.gif&ct=g"></a>
+    <img src="https://giphy.com/static/img/zoomies-small.gif"></a>
 </p>
 
 <p align="center">
@@ -13,8 +13,10 @@
 </p>
 
 <div>
-  <h2>About me
-    <img src = "https://giphy.com/static/img/zoomies-small.gif" width = 65> 
+  <h2>
+     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65> 
+        About me
+     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65> 
   </h2>
 </div>
 
@@ -81,4 +83,4 @@
 Credits: Luis Carlos Rodriguez E.
 
 Last edited on: 01/03/2023
-mi nombre es Luis soy de colombia
+#lewisv4

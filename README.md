@@ -8,10 +8,13 @@
     <img src="https://giphy.com/static/img/zoomies-small.gif"></a>
 </p>
 <div>
-  <h2>
-     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 style = "display: flex; flex-direction: row;"> 
+  <h2 align="center" style = "display: flex; flex-direction: row;">
+     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 > 
       About
-     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65 style = "display: flex; flex-direction: row;"> 
+     
+  </h2>
+  <h2 align="center" style = "display: flex; flex-direction: row;">
+     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65 > 
       me
   </h2>
 </div>

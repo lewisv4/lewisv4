@@ -18,7 +18,7 @@
   </h2>
 </div>
 
-<h4>My name is <a href="https://alejandrosergio.github.io/Curriculum-Vitae-En/" target="_BLANK">Sergio Alejandro Hernández Patiño</a></h4>
+<h4>My name is <a href="https://alejandrosergio.github.io/Curriculum-Vitae-En/" target="_BLANK">Luis carlos Rodriguez</a></h4>
 
 <p>💡 I like to explore new technologies and develop software solutions and quick tricks.</p>
 
@@ -80,24 +80,7 @@
 </div>
 <br>
 <br>
-<div>
-  <h2>Github Stats
-    <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> 
-  </h2>
-</div>
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br/>
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alejandrosergio GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=alejandrosergio&show_icons=true&count_private=true&theme=algolia" height="200px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrosergio&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alejandrosergio" height="200px"/>
-<br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrosergio&theme=algolia" alt="alejandrosergio" /></p>
-<br/>
-  
-<b>Note:</b> Primary languages are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
-</p>
 
-----
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>

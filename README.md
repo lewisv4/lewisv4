@@ -9,9 +9,10 @@
 </p>
 <div>
   <h2>
-     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65> 
-        About me
-     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65> 
+     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 style = "display: flex; flex-direction: row;"> 
+      About
+     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65 style = "display: flex; flex-direction: row;"> 
+      me
   </h2>
 </div>
 

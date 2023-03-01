@@ -9,12 +9,9 @@
 </p>
 <div>
   <h2 align="center" style = "display: flex; flex-direction: row;">
-     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 > 
+     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 align="center" > 
       About
-     
-  </h2>
-  <h2 align="center" style = "display: flex; flex-direction: row;">
-     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65 > 
+     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65  align="center" > 
       me
   </h2>
 </div>

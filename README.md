@@ -10,7 +10,10 @@
 </p>
 <div align="center" style = "display: flex; flex-direction: column;  align-items: center; >
 
-  <img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
+<div align="center" style = "display: flex; flex-direction: column;  align-items: center; >
+<img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
+  </div>
+  
   <h2 align="center" style = "display: flex; flex-direction: column;  align-items: center;">
       About me
   </h2>

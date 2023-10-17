@@ -10,6 +10,7 @@
 </p>
 <div align="center" style = "display: flex; flex-direction: column;  align-items: center; >
 
+  <a>xd</a>
   <img src = "img/zoom-peeker-dude.gif" width = 65 align="center" >
     <a>About me</a>
   

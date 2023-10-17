@@ -1,4 +1,5 @@
 # lewisv4
+
 <div align="center">
   <h2> Hi welcome to me REPO <img src="./img/Hi.gif" width="40"></h2>
 </div>
@@ -7,12 +8,11 @@
   <a>
     <img src="img/zoomies-small.gif"></a>
 </p>
-<div>
-<img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
+<div align="center" style = "display: flex; flex-direction: column;  align-items: center; >
+
+  <img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
   <h2 align="center" style = "display: flex; flex-direction: column;  align-items: center;">
-     
       About me
-     
   </h2>
   <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
 </div>
@@ -74,7 +74,8 @@
 
 ![Snake animation](https://github.com/lewisv4/lewisv4/blob/master/img/github-contribution-grid-snake.svg)
 
------
+---
+
 Credits: Luis Carlos Rodriguez E.
 
 Last edited on: 01/03/2023

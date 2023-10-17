@@ -8,11 +8,13 @@
     <img src="img/zoomies-small.gif"></a>
 </p>
 <div>
+<img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
   <h2 align="center" style = "display: flex; flex-direction: column;  align-items: center;">
-     <img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
+     
       About me
-     <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
+     
   </h2>
+  <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
 </div>
 
 <h4>My name is Luis carlos Rodriguez</a></h4>

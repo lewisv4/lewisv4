@@ -15,6 +15,10 @@
     <a>About me</a>
   
   <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
+  <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
+  <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
+  <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
+  <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
 </div>
 
 <h4>My name is Luis carlos Rodriguez</a></h4>

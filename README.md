@@ -5,13 +5,13 @@
 <br>
 <p align="center">
   <a>
-    <img src="https://giphy.com/static/img/zoomies-small.gif"></a>
+    <img src="img/zoomies-small.gif"></a>
 </p>
 <div>
   <h2 align="center" style = "display: flex; flex-direction: column;  align-items: center;">
-     <img src = "https://giphy.com/static/img/zoom-peeker-dude.gif" width = 65 align="center" > 
+     <img src = "img/zoom-peeker-dude.gif" width = 65 align="center" > 
       About me
-     <img src = "https://giphy.com/static/img/zoom-peeker-dog.gif" width = 65  align="center" > 
+     <img src = "img/zoom-peeker-dog.gif" width = 65  align="center" > 
   </h2>
 </div>
 
